@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "Romantismo",
+    "slug": "romantismo",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "notification": {
+      "icon": "./assets/notification.png",
+      "color": "#fff",
+      "androidMode": "default",
+      "androidCollapsedTitle": "collapse"
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "primaryColor": "#00FF7F",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.filipemarques.romantismo",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.filipemarques.romantismo",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#00FF7F"
+      }
+    },
+    "sdkVersion": "37.0.0",
+    "description": "App com objetivo de ajudar na organização e realização de tarefas, unindo uma interface simples, com suporte a notificações diárias sobre atividades do dia, e colaboração conjunta, onde pessoas de uma mesma turma compartilham as mesmas matérias, podendo modifica-las conforme for necessário."
+  }
+}
