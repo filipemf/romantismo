@@ -1,5 +1,12 @@
 # Romantismo
-App com objetivo de ajudar na organização e realização de tarefas, unindo uma interface simples, com suporte a notificações diárias sobre atividades do dia, e colaboração conjunta, onde pessoas de uma mesma turma compartilham as mesmas matérias, podendo modificá-las conforme for necessário.
+App com objetivo de ajudar na organização e realização de tarefas, unindo uma interface simples, com suporte a notificações diárias sobre atividades do dia, e colaboração conjunta, onde pessoas de uma mesma turma compartilham as mesmas matérias, podendo modificá-las conforme for necessário. Além de estudo sobre lifecycle e class components dentro do React Native.
+
+# Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [NodeJS](https://nodejs.org/en/)
+- [React Native](https://reactnative.dev/)
+
 
 # Funções
 ## Cadastro
