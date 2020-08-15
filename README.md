@@ -6,6 +6,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [NodeJS](https://nodejs.org/en/)
 - [React Native](https://reactnative.dev/)
+- [Firebase](https://firebase.google.com/?hl=pt)
 
 
 # Funções
